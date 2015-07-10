@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Microgift</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="flower">Welcone to Microgift</string>
+	<string name="instructions">Send gifts instantly with the click of a button.  Just click on the gift icon, write a message, and send via text or email to whoever you want! </string>
+	<string name = "hometitle"> Home </string>
+</resources>
